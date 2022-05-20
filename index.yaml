@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  bahmni-proxy:
+  - apiVersion: v2
+    created: "2022-05-20T10:32:34.116424601Z"
+    description: Helm chart for bahmni-proxy
+    digest: f29efea4fb9f426de70d3dbef514bcd9a83dd8d14122c8c3e372fff7447a4ee0
+    name: bahmni-proxy
+    type: application
+    urls:
+    - https://bahmniindiadistro.github.io/helm-charts/bahmni-proxy/bahmni-proxy-1.0.0-17.tgz
+    version: 1.0.0-17
+generated: "2022-05-20T10:32:34.115054488Z"
