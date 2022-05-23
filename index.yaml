@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   bahmni-openmrs:
   - apiVersion: v2
-    created: "2022-05-20T10:36:16.991971121Z"
+    created: "2022-05-23T12:17:11.488972396Z"
     description: Helm chart for bahmni-openmrs
     digest: f1c582ff72d7f1bec0c8c849ff9fbfdadebe3c2004941753671bf08bc3712e4d
     name: bahmni-openmrs
@@ -12,7 +12,7 @@ entries:
     version: 1.0.0-20
   bahmni-proxy:
   - apiVersion: v2
-    created: "2022-05-20T10:36:16.992256625Z"
+    created: "2022-05-23T12:17:11.489194297Z"
     description: Helm chart for bahmni-proxy
     digest: f29efea4fb9f426de70d3dbef514bcd9a83dd8d14122c8c3e372fff7447a4ee0
     name: bahmni-proxy
@@ -22,7 +22,7 @@ entries:
     version: 1.0.0-17
   bahmni-web:
   - apiVersion: v2
-    created: "2022-05-20T10:36:16.992819832Z"
+    created: "2022-05-23T12:17:11.490756004Z"
     description: Helm chart for bahmni-web
     digest: fcbe0312a10878c51c0efaaad8196a4800a707ec6335ea58e028010e15972cec
     name: bahmni-web
@@ -30,4 +30,14 @@ entries:
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-web/bahmni-web-1.0.0-23.tgz
     version: 1.0.0-23
-generated: "2022-05-20T10:36:16.991428714Z"
+  otp-service:
+  - apiVersion: v2
+    created: "2022-05-23T12:17:11.491230706Z"
+    description: Helm chart for otp-service
+    digest: d6e069e10396f5dc27899640451e149ad9be88786d589cc2801404094144b30f
+    name: otp-service
+    type: application
+    urls:
+    - https://bahmniindiadistro.github.io/helm-charts/otp-service/otp-service-1.0.0-11.tgz
+    version: 1.0.0-11
+generated: "2022-05-23T12:17:11.488565494Z"
