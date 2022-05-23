@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   bahmni-openmrs:
   - apiVersion: v2
-    created: "2022-05-23T13:40:15.997821476Z"
+    created: "2022-05-23T15:13:16.767358587Z"
     description: Helm chart for bahmni-openmrs India distro
-    digest: 20d9174e7cec045313f6cc43b681965b0138b429db011e468697e8d681bf265e
+    digest: 2afa12b7f0d7c5fe5f6e8e43cf2980bf15c8f1cb0d85957aeef7dfd41166a8e5
     name: bahmni-openmrs
     type: application
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-21.tgz
     version: 1.0.0-21
   - apiVersion: v2
-    created: "2022-05-23T13:40:15.996956769Z"
+    created: "2022-05-23T15:13:16.766807184Z"
     description: Helm chart for bahmni-openmrs
     digest: f1c582ff72d7f1bec0c8c849ff9fbfdadebe3c2004941753671bf08bc3712e4d
     name: bahmni-openmrs
@@ -21,7 +21,7 @@ entries:
     version: 1.0.0-20
   bahmni-proxy:
   - apiVersion: v2
-    created: "2022-05-23T13:40:15.998067078Z"
+    created: "2022-05-23T15:13:16.76771369Z"
     description: Helm chart for bahmni-proxy
     digest: f29efea4fb9f426de70d3dbef514bcd9a83dd8d14122c8c3e372fff7447a4ee0
     name: bahmni-proxy
@@ -31,7 +31,7 @@ entries:
     version: 1.0.0-17
   bahmni-web:
   - apiVersion: v2
-    created: "2022-05-23T13:40:15.99829818Z"
+    created: "2022-05-23T15:13:16.768060092Z"
     description: Helm chart for bahmni-web
     digest: fcbe0312a10878c51c0efaaad8196a4800a707ec6335ea58e028010e15972cec
     name: bahmni-web
@@ -41,7 +41,7 @@ entries:
     version: 1.0.0-23
   otp-service:
   - apiVersion: v2
-    created: "2022-05-23T13:40:15.998524182Z"
+    created: "2022-05-23T15:13:16.768420594Z"
     description: Helm chart for otp-service
     digest: d6e069e10396f5dc27899640451e149ad9be88786d589cc2801404094144b30f
     name: otp-service
@@ -49,4 +49,4 @@ entries:
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/otp-service/otp-service-1.0.0-11.tgz
     version: 1.0.0-11
-generated: "2022-05-23T13:40:15.996455465Z"
+generated: "2022-05-23T15:13:16.760116843Z"
