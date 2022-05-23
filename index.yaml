@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   bahmni-openmrs:
   - apiVersion: v2
-    created: "2022-05-23T15:13:16.767358587Z"
+    created: "2022-05-23T15:22:41.620603586Z"
+    description: Helm chart for bahmni-openmrs India distro
+    digest: c8d6ca0cdeb15eccedd25cb797179a7b7a7ec187480fb4d07e9f59cfb5012752
+    name: bahmni-openmrs
+    type: application
+    urls:
+    - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-22.tgz
+    version: 1.0.0-22
+  - apiVersion: v2
+    created: "2022-05-23T15:22:41.62012298Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 2afa12b7f0d7c5fe5f6e8e43cf2980bf15c8f1cb0d85957aeef7dfd41166a8e5
     name: bahmni-openmrs
@@ -11,7 +20,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-21.tgz
     version: 1.0.0-21
   - apiVersion: v2
-    created: "2022-05-23T15:13:16.766807184Z"
+    created: "2022-05-23T15:22:41.619429372Z"
     description: Helm chart for bahmni-openmrs
     digest: f1c582ff72d7f1bec0c8c849ff9fbfdadebe3c2004941753671bf08bc3712e4d
     name: bahmni-openmrs
@@ -21,7 +30,7 @@ entries:
     version: 1.0.0-20
   bahmni-proxy:
   - apiVersion: v2
-    created: "2022-05-23T15:13:16.76771369Z"
+    created: "2022-05-23T15:22:41.620885689Z"
     description: Helm chart for bahmni-proxy
     digest: f29efea4fb9f426de70d3dbef514bcd9a83dd8d14122c8c3e372fff7447a4ee0
     name: bahmni-proxy
@@ -31,7 +40,7 @@ entries:
     version: 1.0.0-17
   bahmni-web:
   - apiVersion: v2
-    created: "2022-05-23T15:13:16.768060092Z"
+    created: "2022-05-23T15:22:41.621195293Z"
     description: Helm chart for bahmni-web
     digest: fcbe0312a10878c51c0efaaad8196a4800a707ec6335ea58e028010e15972cec
     name: bahmni-web
@@ -41,7 +50,7 @@ entries:
     version: 1.0.0-23
   otp-service:
   - apiVersion: v2
-    created: "2022-05-23T15:13:16.768420594Z"
+    created: "2022-05-23T15:22:41.621501597Z"
     description: Helm chart for otp-service
     digest: d6e069e10396f5dc27899640451e149ad9be88786d589cc2801404094144b30f
     name: otp-service
@@ -49,4 +58,4 @@ entries:
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/otp-service/otp-service-1.0.0-11.tgz
     version: 1.0.0-11
-generated: "2022-05-23T15:13:16.760116843Z"
+generated: "2022-05-23T15:22:41.618795565Z"
