@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   bahmni-openmrs:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.67688201Z"
+    created: "2022-05-25T06:06:33.687190902Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: b0220d9e5db45cb3166d4f0afa5c5dff35995849dc29734bf09254e87459b556
     name: bahmni-openmrs
@@ -11,7 +11,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-28.tgz
     version: 1.0.0-28
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.676569913Z"
+    created: "2022-05-25T06:06:33.686869098Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 5213d4989d5d290b745a06ae7d34260c2cf214403926a9a9884a1f602b1c5c96
     name: bahmni-openmrs
@@ -20,7 +20,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-27.tgz
     version: 1.0.0-27
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.676216417Z"
+    created: "2022-05-25T06:06:33.686559195Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 97a433ddd62caef10dc35e0f05093b7ca0349420f2b442e643c701d2d20c14aa
     name: bahmni-openmrs
@@ -29,7 +29,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-26.tgz
     version: 1.0.0-26
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.67587872Z"
+    created: "2022-05-25T06:06:33.686229691Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: b8d9cfa238a04b1ac279d84b657e701e18e7316858d5597f453378120fd4fefd
     name: bahmni-openmrs
@@ -38,7 +38,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-24.tgz
     version: 1.0.0-24
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.675556623Z"
+    created: "2022-05-25T06:06:33.685709786Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 1f5b953373ad2fa171e640f490811ab5836a2aa712ad2ed389238fd66fe8fda5
     name: bahmni-openmrs
@@ -47,7 +47,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-23.tgz
     version: 1.0.0-23
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.675174627Z"
+    created: "2022-05-25T06:06:33.685278682Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: c8d6ca0cdeb15eccedd25cb797179a7b7a7ec187480fb4d07e9f59cfb5012752
     name: bahmni-openmrs
@@ -56,7 +56,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-22.tgz
     version: 1.0.0-22
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.674576433Z"
+    created: "2022-05-25T06:06:33.684827777Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 2afa12b7f0d7c5fe5f6e8e43cf2980bf15c8f1cb0d85957aeef7dfd41166a8e5
     name: bahmni-openmrs
@@ -65,7 +65,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-openmrs/bahmni-openmrs-1.0.0-21.tgz
     version: 1.0.0-21
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.674119337Z"
+    created: "2022-05-25T06:06:33.684304371Z"
     description: Helm chart for bahmni-openmrs
     digest: f1c582ff72d7f1bec0c8c849ff9fbfdadebe3c2004941753671bf08bc3712e4d
     name: bahmni-openmrs
@@ -75,7 +75,7 @@ entries:
     version: 1.0.0-20
   bahmni-proxy:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.677088808Z"
+    created: "2022-05-25T06:06:33.687427604Z"
     description: Helm chart for bahmni-proxy
     digest: f29efea4fb9f426de70d3dbef514bcd9a83dd8d14122c8c3e372fff7447a4ee0
     name: bahmni-proxy
@@ -85,7 +85,7 @@ entries:
     version: 1.0.0-17
   bahmni-web:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.678054498Z"
+    created: "2022-05-25T06:06:33.688482715Z"
     description: Helm chart for bahmni-web India distro
     digest: 3df0997777cd68fdf7cd4b0bfe138c7132d60f6537d8fe8c9182b6a3b6fca263
     name: bahmni-web
@@ -94,7 +94,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-web/bahmni-web-1.0.0-27.tgz
     version: 1.0.0-27
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.677845001Z"
+    created: "2022-05-25T06:06:33.688265313Z"
     description: Helm chart for bahmni-web India distro
     digest: 8d1afb6163c6468dd1a6baf70d1fa056c64569d7657d4a6bc8ed977affc84939
     name: bahmni-web
@@ -103,7 +103,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-web/bahmni-web-1.0.0-26.tgz
     version: 1.0.0-26
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.677667202Z"
+    created: "2022-05-25T06:06:33.68804981Z"
     description: Helm chart for bahmni-web India distro
     digest: f9437b807a0fc372be425c3e908bfe6347f5df8c254da028680415f2fd4318c7
     name: bahmni-web
@@ -112,7 +112,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-web/bahmni-web-1.0.0-25.tgz
     version: 1.0.0-25
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.677477504Z"
+    created: "2022-05-25T06:06:33.687838108Z"
     description: Helm chart for bahmni-web India distro
     digest: 991b1fbad52ae132d37ff7a0b3b6ff6dff33c60eee991f778edb0301bf915c65
     name: bahmni-web
@@ -121,7 +121,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/bahmni-web/bahmni-web-1.0.0-24.tgz
     version: 1.0.0-24
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.677294706Z"
+    created: "2022-05-25T06:06:33.687638706Z"
     description: Helm chart for bahmni-web
     digest: fcbe0312a10878c51c0efaaad8196a4800a707ec6335ea58e028010e15972cec
     name: bahmni-web
@@ -131,7 +131,7 @@ entries:
     version: 1.0.0-23
   hip:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.678845191Z"
+    created: "2022-05-25T06:06:33.689288623Z"
     description: Helm chart for hip service
     digest: f5670ea5bdec528b28096fefefc34b69ac57ec31ba3c8ad4b4e8c44b852dd640
     name: hip
@@ -140,7 +140,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/hip/hip-1.0.0-93.tgz
     version: 1.0.0-93
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.678566593Z"
+    created: "2022-05-25T06:06:33.68898462Z"
     description: Helm chart for hip service
     digest: 90587f0f5364cec426ffaf88dd6654e38ad1a03d9acd0b9db45384fa2855a4c8
     name: hip
@@ -149,7 +149,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/hip/hip-1.0.0-91.tgz
     version: 1.0.0-91
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.678319696Z"
+    created: "2022-05-25T06:06:33.688732918Z"
     description: Helm chart for hip service
     digest: 76bf2585d285d38a2999ee3cdb5a6be71af98ad1fab47305e869858e78d82618
     name: hip
@@ -159,7 +159,7 @@ entries:
     version: 1.0.0-90
   hiu:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.679198187Z"
+    created: "2022-05-25T06:06:33.689667727Z"
     description: Helm chart for bahmni-openmrs India distro
     digest: 9f67fa4b4e60324394ec2820b7a63d4e656243669e51cd25ff657bab0e1660ee
     name: hiu
@@ -169,7 +169,7 @@ entries:
     version: 1.0.0-34
   hiu-db:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.679596683Z"
+    created: "2022-05-25T06:06:33.690080432Z"
     description: Helm chart for hiu-db
     digest: 82b71600a51ed69ca055bfcec91c24ad1981429f2bfad76515cd6aa890a4bbdd
     name: hiu-db
@@ -178,7 +178,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/hiu-db/hiu-db-1.0.0-52.tgz
     version: 1.0.0-52
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.679381485Z"
+    created: "2022-05-25T06:06:33.689865929Z"
     description: Helm chart for hiu-db
     digest: 46ce2df27f88ddf0bd959baf3140163455feb8614b409ddae2a4fd443fff4751
     name: hiu-db
@@ -188,7 +188,16 @@ entries:
     version: 1.0.0-51
   hiu-ui:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.679826981Z"
+    created: "2022-05-25T06:06:33.690580837Z"
+    description: Helm chart for hiu-ui
+    digest: 6778ed6ac7315f152d0d044a5ee44491b8f8361b031e66777c0cefddbda9351a
+    name: hiu-ui
+    type: application
+    urls:
+    - https://bahmniindiadistro.github.io/helm-charts/hiu-ui/hiu-ui-1.0.0-50.tgz
+    version: 1.0.0-50
+  - apiVersion: v2
+    created: "2022-05-25T06:06:33.690317234Z"
     description: Helm chart for hiu-ui
     digest: 25594a1f3b0ca297de9628b24e4a74db2c9e69fec2e50ae1bc34ee44dda40b7a
     name: hiu-ui
@@ -198,7 +207,7 @@ entries:
     version: 1.0.0-49
   otp-service:
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.680595173Z"
+    created: "2022-05-25T06:06:33.690993041Z"
     description: Helm chart for otp-service
     digest: e680e9042c797ea1074b8048e0410b5702f3d4515bf5e7fc3f1f736707fd09a2
     name: otp-service
@@ -207,7 +216,7 @@ entries:
     - https://bahmniindiadistro.github.io/helm-charts/otp-service/otp-service-1.0.0-12.tgz
     version: 1.0.0-12
   - apiVersion: v2
-    created: "2022-05-25T05:50:35.680015179Z"
+    created: "2022-05-25T06:06:33.690785439Z"
     description: Helm chart for otp-service
     digest: d6e069e10396f5dc27899640451e149ad9be88786d589cc2801404094144b30f
     name: otp-service
@@ -215,4 +224,4 @@ entries:
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/otp-service/otp-service-1.0.0-11.tgz
     version: 1.0.0-11
-generated: "2022-05-25T05:50:35.673466044Z"
+generated: "2022-05-25T06:06:33.683134059Z"
