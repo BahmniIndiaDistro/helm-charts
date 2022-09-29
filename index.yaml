@@ -3970,16 +3970,6 @@ entries:
     urls:
     - https://bahmniindiadistro.github.io/helm-charts/hiu-ui/hiu-ui-1.0.0-49.tgz
     version: 1.0.0-49
-  ndhm-react:
-  - apiVersion: v2
-    created: "2022-09-29T07:02:51.754674034Z"
-    description: Helm chart for ABDM health Id verification module
-    digest: 5bb671b941a815d1841e03eb2bb3e17c6810f98375330a5a66bff48e56142d28
-    name: ndhm-react
-    type: application
-    urls:
-    - https://bahmniindiadistro.github.io/helm-charts/ndhm-react/ndhm-react-1.0.0-96.tgz
-    version: 1.0.0-96
   openmrs:
   - apiVersion: v2
     created: "2022-09-29T07:02:51.81665557Z"
